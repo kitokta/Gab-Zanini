@@ -27,5 +27,7 @@ Também estudo programação fullstack via currículo OpenSource do The Odin Pro
 ##
 
 <div align="center">
- ![Snake animation](https://github.com/jessicaCSMelo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
+ ![Snake animation](https://github.com/kitokta/kitokta/blob/output/github-contribution-grid-snake.svg)
  </div>
