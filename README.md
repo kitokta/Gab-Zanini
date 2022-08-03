@@ -1,4 +1,6 @@
-## Oiii eu sou a Gab Zanini, estudante de programação Fullstack! Atualmente no programa de formação de programadores Backend do Rio Pomba Valley!
+## Bem vinde ao meu perfil! sou Gab Zanini, 
+Sou estudante de programação Fullstack! Atualmente no programa de formação de programadores Backend do Rio Pomba Valley, pela empresa Energisa.
+Também estudo programação fullstack via currículo OpenSource do The Odin Project!
 <div align="center">
   <a href="https://github.com/kitokta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitokta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
